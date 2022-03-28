@@ -1,5 +1,5 @@
 # Prestyler.css
-> A miniframework for a responsive font + Adaptative Box Sizing
+> A miniframework for a responsive-fonts
 
 ## What does it do?
 it's just a responsive-fonts miniframework with superpowers🦸.
