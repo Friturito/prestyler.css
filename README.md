@@ -2,9 +2,9 @@
 > A miniframework for a responsive font + Adaptative Box Sizing
 
 ## What does it do?
-it's just a responsive text miniframework with superpowers.
+it's just a responsive-fonts miniframework with superpowers🦸.
 
-## Browser support
+## Browser support 🌐
 * Chrome
 * Edge
 * Firefox ESR+
